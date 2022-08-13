@@ -28,7 +28,7 @@
     "express": "^4.17.1",
     "firebase": "^9.0.1",
     "firebase-admin": "^9.11.1",
-    "lru-cache": "^7.8.1",
+    "lru-cache": "^7.13.1",
     "luxon": "^2.3.0",
     "nuxt": "^2.15.7",
     "nuxt-hammer": "^2.1.3",
