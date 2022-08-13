@@ -16,7 +16,7 @@
     "@codemirror/highlight": "^0.19.7",
     "@codemirror/history": "^0.19.2",
     "@codemirror/state": "^0.19.6",
-    "@codemirror/view": "^0.19.39",
+    "@codemirror/view": "^0.20.7",
     "@lezer/lr": "^0.15.5",
     "@nuxt/content": "^1.15.1",
     "@nuxtjs/axios": "^5.13.6",
