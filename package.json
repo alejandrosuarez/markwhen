@@ -15,7 +15,7 @@
   "dependencies": {
     "@markwhen/parser": "^0.2.3",
     "@squadette/hammerjs": "^2.1.0-pre3",
-    "@vueuse/core": "^9.3.1",
+    "@vueuse/core": "^9.5.0",
     "@vueuse/integrations": "^9.3.1",
     "chrono-node": "^2.4.1",
     "lru-cache": "^7.14.0",
