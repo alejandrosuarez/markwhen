@@ -19,7 +19,7 @@
     "@vueuse/core": "^9.3.1",
     "@vueuse/integrations": "^9.3.1",
     "chrono-node": "^2.4.1",
-    "lru-cache": "^7.14.0",
+    "lru-cache": "^7.14.1",
     "lunr": "^2.3.9",
     "luxon": "^3.0.3",
     "pinia": "^2.0.23",
