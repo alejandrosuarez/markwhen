@@ -21,7 +21,7 @@
     "chrono-node": "^2.4.1",
     "lru-cache": "^7.14.0",
     "lunr": "^2.3.9",
-    "luxon": "^3.0.3",
+    "luxon": "^3.2.1",
     "pinia": "^2.0.23",
     "throttle-debounce": "^5.0.0",
     "vue": "^3.2.41",
